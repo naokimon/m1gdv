@@ -3,3 +3,6 @@ Module 1 Game Developement
 
 # Les 1.1
 ![image](Opdrachten/Videos/Les11.png)
+
+# Les 1.2
+![til](Opdrachten/Videos/Les12.gif)
