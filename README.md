@@ -93,3 +93,9 @@ Ik heb mijn eigen mini-level gemaakt. Ik heb een platformer gemaakt met een paar
 [Script 4](https://github.com/naokimon/m1gdv/blob/main/Opdrachten/Scripts/CoinCollecting.cs)
 [Script 5](https://github.com/naokimon/m1gdv/blob/main/Opdrachten/Scripts/CoinPickup.cs)
 
+# Praktijk Opdracht 1A
+![til](Opdrachten/Videos/Praktijk-Opdracht-1A)
+
+Ik heb een random item generator gemaakt met arrays. Ik heb stands van JoJo's Bizarre Adventure gekozen als mijn tien random items.
+[Script 1](https://github.com/naokimon/m1gdv/blob/main/Opdrachten/Scripts/RandomItems.cs)
+
